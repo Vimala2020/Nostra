@@ -351,9 +351,9 @@
 }
 
 @media (min-width:480px){
-    .navbar{
+    .navbar {
         display: block;
-        background-color: #1D232C;
+    
     }
 }
 
