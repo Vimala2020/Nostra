@@ -205,9 +205,7 @@
     justify-content: space-between;
     margin-top: 2vw;
 }
-.initial-scroll-animate {
-    transition: 3s;
-}
+
 .new-arrival-container {
     position: relative;
 }
@@ -290,9 +288,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1D232C;
-    color: #E2E1E1;
-    padding: 20px;
+    background-color: black;
+    color: white;
+    padding: 18px;
     font-size: 2vw;
 }
 
@@ -315,15 +313,6 @@
 
  }
  
-
- .initial-scroll-animate{
-   
-    transition: 3s;
- }
-
- .reveal-scroll-animate{
-    opacity: 1;
- }
 
  .news{
     font-size: 2vw;
